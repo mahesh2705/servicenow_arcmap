@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_270741_demo_arcm.demo_user" name="x_270741_demo_arcm.demo_user">fbfca2d2db0023001b610181ca96198c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-23 06:58:19</sys_created_on>
+        <sys_id>7bfca2d2db0023001b610181ca96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fbfca2d2db0023001b610181ca96198c</sys_name>
+        <sys_package display_value="Demo_Arcmap" source="x_270741_demo_arcm">c55c6a16db0023001b610181ca9619d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_Arcmap">c55c6a16db0023001b610181ca9619d7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7bfca2d2db0023001b610181ca96198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-23 06:58:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

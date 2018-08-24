@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link/>
+        <name>MY map</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-23 09:50:30</sys_created_on>
+        <sys_id>c66497d6db4023001b610181ca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MY map</sys_name>
+        <sys_package display_value="Demo_Arcmap" source="x_270741_demo_arcm">c55c6a16db0023001b610181ca9619d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_Arcmap">c55c6a16db0023001b610181ca9619d7</sys_scope>
+        <sys_update_name>sp_widget_c66497d6db4023001b610181ca9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-23 09:50:30</sys_updated_on>
+        <template><![CDATA[<div>
+<!-- your widget template -->
+</div>]]></template>
+    </sp_widget>
+</record_update>

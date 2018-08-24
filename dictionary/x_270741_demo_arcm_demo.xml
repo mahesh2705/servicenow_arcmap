@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="demo" max_length="40" name="x_270741_demo_arcm_demo" type="collection">
+        <element label="latitude" max_length="20" name="latitude" type="integer"/>
+        <element display="true" label="longitude" max_length="20" name="longitude" type="integer"/>
+    </element>
+</database>
